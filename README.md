@@ -1,37 +1,5 @@
 ![Megacity Multiplayer](Readme/header.jpg)
 
-## Contents and Quick Links
-
-- [Contents and Quick Links](#contents-and-quick-links)
-- [Megacity Multiplayer Overview](#megacity-multiplayer-overview)
-- [Megacity Multiplayer Prerequisites](#megacity-multiplayer-prerequisites)
-  - [Recommended Specs for Mac](#recommended-specs-for-mac)
-  - [Recommended Specs for Windows 10](#recommended-specs-for-windows-10)
-- [Important Note Before You Begin](#important-note-before-you-begin)
-- [Get Megacity Multiplayer](#get-megacity-multiplayer)
-  - [Clone the Project](#clone-the-project)
-- [Get Started](#get-started)
-- [Add Unity Gaming Services (UGS)](#add-unity-gaming-services-ugs)
-  - [Game Server Hosting (Multiplay)](#game-server-hosting-multiplay)
-  - [Matchmaker](#matchmaker)
-  - [Vivox](#vivox)
-- [Test Your Multiplayer Setup](#test-your-multiplayer-setup)
-  - [Editor Local Multiplayer Setup (Without UGS)](#editor-local-multiplayer-setup-without-ugs)
-  - [Build Local Multiplayer Setup (Without UGS)](#build-local-multiplayer-setup-without-ugs)
-- [Gameplay Controls](#gameplay-controls)
-  - [Mouse and Keyboard](#mouse-and-keyboard)
-- [Index of Resources in this Project](#index-of-resources-in-this-project)
-  - [Gameplay](#gameplay)
-  - [Audio](#audio)
-  - [Connectivity](#connectivity)
-  - [Services (Vivox, Matchmaker, etc.)](#services-vivox-matchmaker-etc)
-  - [UI](#ui)
-  - [Tools and Utilities](#tools-and-utilities)
-- [Troubleshooting](#troubleshooting)
-  - [Bugs](#bugs)
-- [Disclaimer](#disclaimer)
-- [License](#license)
-
 
 ## Megacity Multiplayer Overview
 
