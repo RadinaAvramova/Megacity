@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement name="decoration-lines" class="flicker" style="transform-origin: left top; background-image: url(&apos;project://database/Assets/Art/Textures/UI/AtlasUI.psd?fileID=-3112736373974141601&amp;guid=31e77ef23200a8842b3829370f52c886&amp;type=3#decoration-line&apos;); height: 10px; width: 100px; -unity-background-scale-mode: scale-to-fit; scale: -1 1;" />
+</ui:UXML>
